@@ -6,10 +6,6 @@
 
 Building scalable enterprise applications, cloud-native platforms, and AI-powered solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:your-email@example.com)
-
 </div>
 
 ---
